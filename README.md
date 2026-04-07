@@ -1,4 +1,4 @@
-## MIPS Assembly Caro Game (15x15)
+## MIPS Assembly GOMOKU Game (15x15)
 
 A two-player **Gomoku** (also known as **Caro** or **Five in a Row**) game implemented entirely in **MIPS Assembly**. This project features a 15x15 grid, interactive coordinate-based input, win-condition detection, and file output capabilities.
 
